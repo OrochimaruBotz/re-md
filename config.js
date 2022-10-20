@@ -4,12 +4,12 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+62 812-7624-2128', 'Pino', true]
+  ['+62 888-0494-7282', 'Humanz', true]
 ]
 
 
 
- // ['6283820073017', '436506665652696', '6285240750713']
+ // ['6288804947282', '6288804947282', '6288804947282']
 
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
@@ -56,14 +56,14 @@ global.fla = [
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text=']
 
 // Sticker WM
-global.packname = `\t\t「 Cʀᴇᴀᴛᴇᴅ Bʏ Pino 」\n\t\t「 IG: ashenford_ 」\n\t\t「 SC: github.com/alvino-prog/re-md 」\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
+global.packname = `\t\t「 Cʀᴇᴀᴛᴇᴅ Bʏ Humanz 」\n\t\t「 Github: OrochimaruBotz 」\n\t\t「 SC: github.com/alvino-prog/re-md 」\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
 global.author = ''
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Pino - 2022'
+global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Humanz - 2022'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
